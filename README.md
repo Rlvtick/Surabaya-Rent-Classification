@@ -1,4 +1,4 @@
-# Surabaya Rent Classification Using SVM and Random Forest Data Mining
+# Surabaya Rent Classification Using SVM and Random Forest
 
 This collaborative data mining project was done on the dataset for rent prices of boarding houses and apartments all over Surabaya to find hidden trends and information behind the rent prices in Surabaya using SVM and Random Forest Algorithm. This project aims to give structured and organized information to prospective property renters. Furthermore, this project can also aid property owners in comprehending market preferences and needs, enabling them to optimize marketing and property development strategies in the future.
 
